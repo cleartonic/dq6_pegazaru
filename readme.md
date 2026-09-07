@@ -12,7 +12,7 @@ You can find more information about the project [here at https://cleartonic.net/
 ![](https://cleartonic.net/dq6/img/img3a.png)
 
 ## Status
-This project is substantially complete. The game is fully translated. The current set of patches having low version number is simply to give ample room for minor revisions and any bug fixes. 
+This project is substantially complete. The game is fully translated. The current set of patches having low version numbers is simply to give ample room for minor revisions and any bug fixes. 
 
 ## Instructions
 - Head to the [Releases](../../releases) page and download the latest .ips patch.
